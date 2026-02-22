@@ -21,3 +21,7 @@ Although, task was to create a subnet. Due to policies to my assigned role was m
 To enable bucket versioning feature to an existing S3 bucket.
 ![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/a2e62724302db16e3a65efce38a4f261bca7666f/day4.png)
 
+# Day 5 
+Create a Volume with desired attributes.
+![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/50a45930db6c518c3f653bb43b66d0b548f03022/day5.png)
+
