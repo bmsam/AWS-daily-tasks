@@ -25,3 +25,6 @@ To enable bucket versioning feature to an existing S3 bucket.
 Create a Volume with desired attributes.
 ![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/50a45930db6c518c3f653bb43b66d0b548f03022/day5.png)
 
+# Day 6
+Create an EC2 Instance with desired attrubutes.
+![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/5b90d7dbe06653b184a8aecf8002c7826b2701b5/day6.png)
