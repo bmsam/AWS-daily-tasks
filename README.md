@@ -27,4 +27,5 @@ Create a Volume with desired attributes.
 
 # Day 6
 Create an EC2 Instance with desired attrubutes.
+
 ![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/5b90d7dbe06653b184a8aecf8002c7826b2701b5/day6.png)
