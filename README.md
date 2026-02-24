@@ -31,5 +31,5 @@ Create an EC2 Instance with desired attributes.
 ![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/5b90d7dbe06653b184a8aecf8002c7826b2701b5/day6.png)
 
 # Day 7 
-To change instance type from micro to nano
-![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/0b7769fa0d8f124d6d043e425d5585eb13896bdd/day7.png)
+To change the Instance type from t2.micro to t2.nano of existing instance.
+![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/19e7739d97de823ab137f718ddfe7745468bd1dd/day7.png)
