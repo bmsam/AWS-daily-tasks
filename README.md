@@ -37,3 +37,7 @@ To change the Instance type from t2.micro to t2.nano of existing instance.
 # Day 8
 Enable Stop protection for an instance. I used AWS CLI, since i had issues with policies in UI
 ![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/e633b16193d0a2e992b34277cf017e4c44db2286/day8.png)
+
+# Day 9
+Enable Termination Protection for an existing Instance.
+![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/51ac38a8ebe7c08abd84890e071c758e62d4e314/day9.png)
