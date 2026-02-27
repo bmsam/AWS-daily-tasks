@@ -41,3 +41,7 @@ Enable Stop protection for an instance. I used AWS CLI, since i had issues with 
 # Day 9
 Enable Termination Protection for an existing Instance.
 ![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/51ac38a8ebe7c08abd84890e071c758e62d4e314/day9.png)
+
+# Day 10
+Attach existing Elastic IP to the existing Instance.
+![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/137e159c76b9f78a97872ab5b54ab18e2b862b5b/day10.png)
