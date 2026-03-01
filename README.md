@@ -47,3 +47,5 @@ Attach existing Elastic IP to the existing Instance.
 ![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/137e159c76b9f78a97872ab5b54ab18e2b862b5b/day10.png)
 
 # Day 11
+Attach Elastic Network Interface to an Instance
+![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/0f025a8b7583ec891bb3111e4992bc30da0b4e5b/aws%20day%2011.png)
