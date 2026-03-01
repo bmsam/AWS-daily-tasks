@@ -45,3 +45,5 @@ Enable Termination Protection for an existing Instance.
 # Day 10
 Attach existing Elastic IP to the existing Instance.
 ![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/137e159c76b9f78a97872ab5b54ab18e2b862b5b/day10.png)
+
+# Day 11
