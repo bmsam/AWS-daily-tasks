@@ -49,3 +49,7 @@ Attach existing Elastic IP to the existing Instance.
 # Day 11
 Attach Elastic Network Interface to an Instance
 ![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/0f025a8b7583ec891bb3111e4992bc30da0b4e5b/aws%20day%2011.png)
+
+# Day 12 
+Attach Volme to an existing Instance.
+![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/37c91d1da02f7422e902cf62a741c26f45001188/day12.png)
