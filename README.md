@@ -53,3 +53,7 @@ Attach Elastic Network Interface to an Instance
 # Day 12 
 Attach Volme to an existing Instance.
 ![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/37c91d1da02f7422e902cf62a741c26f45001188/day12.png)
+
+# Day 13 
+Create an AMI from an existing Instance
+![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/0df5d4f242710ddb08f0dc1480d42bd0fa1c3dfd/day13.png)
