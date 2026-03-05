@@ -57,3 +57,7 @@ Attach Volme to an existing Instance.
 # Day 13 
 Create an AMI from an existing Instance
 ![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/0df5d4f242710ddb08f0dc1480d42bd0fa1c3dfd/day13.png)
+
+# Day 14
+Delete the existing EC2 Instance by name.
+![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/65e7eb2762a09e83767a8a94ffcf7d7245c2bd0a/day14.png)
