@@ -61,3 +61,7 @@ Create an AMI from an existing Instance
 # Day 14
 Delete the existing EC2 Instance by name.
 ![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/65e7eb2762a09e83767a8a94ffcf7d7245c2bd0a/day14.png)
+
+# Day 15
+Create a snapshot of an existing volume.
+![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/7c0543889c3b16dc53171bf6714a71b582fa0fd8/day15.png)
