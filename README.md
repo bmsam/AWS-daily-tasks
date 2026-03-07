@@ -65,3 +65,7 @@ Delete the existing EC2 Instance by name.
 # Day 15
 Create a snapshot of an existing volume.
 ![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/7c0543889c3b16dc53171bf6714a71b582fa0fd8/day15.png)
+
+# Day 16
+Create an IAM user.
+![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/51b4d439da0d3785cd007995d7ed09068f706314/day16.png)
