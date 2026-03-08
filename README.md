@@ -69,3 +69,7 @@ Create a snapshot of an existing volume.
 # Day 16
 Create an IAM user.
 ![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/51b4d439da0d3785cd007995d7ed09068f706314/day16.png)
+
+# Day 17
+Create an IAM user group.
+![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/d08eeb26b5dff8c194eee6f87fa8a08b93b4c47c/day17.png)
