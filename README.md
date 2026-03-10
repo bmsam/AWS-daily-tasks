@@ -77,3 +77,8 @@ Create an IAM user group.
 # Day 18
 Create an IAM Policy with full read-only access to ec2.
 ![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/a02e54555c7bb780b12cb374d9bced7736c2cebd/day18.png)
+
+# Day 19
+Attach an IAM Policy to IAM User.
+![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/f41df3b1ddcea84232dc165c199ae642a459a8e6/day19.png)
+
