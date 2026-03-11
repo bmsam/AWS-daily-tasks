@@ -82,3 +82,7 @@ Create an IAM Policy with full read-only access to ec2.
 Attach an IAM Policy to IAM User.
 ![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/f41df3b1ddcea84232dc165c199ae642a459a8e6/day19.png)
 
+# Day 20
+Create an IAM role with instructed use case and policy
+![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/d9670028032b409df89448d38cd0a55176612253/day20.png)
+
