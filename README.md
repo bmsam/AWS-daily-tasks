@@ -86,3 +86,6 @@ Attach an IAM Policy to IAM User.
 Create an IAM role with instructed use case and policy
 ![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/d9670028032b409df89448d38cd0a55176612253/day20.png)
 
+# Day 21
+Create an EC2 Instance and associate Elastic IP address to this instance.
+![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/30f66ff8fff041afc14e8170c15feaf81824ff9f/day21.png)
