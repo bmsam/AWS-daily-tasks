@@ -89,3 +89,7 @@ Create an IAM role with instructed use case and policy
 # Day 21
 Create an EC2 Instance and associate Elastic IP address to this instance.
 ![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/30f66ff8fff041afc14e8170c15feaf81824ff9f/day21.png)
+
+# Day 22
+Create an EC2 Instance and enable ssh secure passwordless connection by using public key from aws client.
+![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/1b1b575ae76815f1d5591b090d690071eafe4156/day22.png)
