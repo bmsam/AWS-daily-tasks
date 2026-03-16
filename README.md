@@ -93,3 +93,7 @@ Create an EC2 Instance and associate Elastic IP address to this instance.
 # Day 22
 Create an EC2 Instance and enable ssh secure passwordless connection by using public key from aws client.
 ![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/1b1b575ae76815f1d5591b090d690071eafe4156/day22.png)
+
+# Day 23
+Create a new bucket and migrate data from existing bucket.
+![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/7afd18f2b97902ad7005639a61c86b0e6fbaa440/day23.png)
