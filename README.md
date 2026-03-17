@@ -97,3 +97,7 @@ Create an EC2 Instance and enable ssh secure passwordless connection by using pu
 # Day 23
 Create a new bucket and migrate data from existing bucket.
 ![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/7afd18f2b97902ad7005639a61c86b0e6fbaa440/day23.png)
+
+# Day 24
+Create an Application Load Balancer.
+![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/f22c10d5644bab91f7626bd41a75f291367735e1/day24.png)
