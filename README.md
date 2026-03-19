@@ -101,3 +101,8 @@ Create a new bucket and migrate data from existing bucket.
 # Day 24
 Create an Application Load Balancer.
 ![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/f22c10d5644bab91f7626bd41a75f291367735e1/day24.png)
+
+# Day 25
+Create an Instance with Cloud Watch alarm.
+![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/acb888151ffa4c4bd3712f99526c062ae901dc50/day25.png)
+
