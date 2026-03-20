@@ -106,3 +106,7 @@ Create an Application Load Balancer.
 Create an Instance with Cloud Watch alarm.
 ![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/acb888151ffa4c4bd3712f99526c062ae901dc50/day25.png)
 
+# Day 26
+Configuring an EC2 Instance as a Web Server with Nginx
+![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/66caa92f5970070acaaa8661250d22e61da39f3e/day26.png)
+
