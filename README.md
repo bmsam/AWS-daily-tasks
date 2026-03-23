@@ -110,3 +110,8 @@ Create an Instance with Cloud Watch alarm.
 Configuring an EC2 Instance as a Web Server with Nginx
 ![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/66caa92f5970070acaaa8661250d22e61da39f3e/day26.png)
 
+# Day 27
+Configuring Public VPC with EC2 for Internet Access
+(Note: I failed to create in 1st try. But the task screenshot was from 1st one, there will be slight change in names)
+![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/0c25a14b69b814f39776fd7e55e8fabd5b2e88fc/day27.png)
+
