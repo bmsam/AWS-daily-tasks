@@ -115,3 +115,7 @@ Configuring Public VPC with EC2 for Internet Access
 (Note: I failed to create in 1st try. But the task screenshot was from 1st one, there will be slight change in names)
 ![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/0c25a14b69b814f39776fd7e55e8fabd5b2e88fc/day27.png)
 
+# Day 28
+Creating a Private ECR Repository
+![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/0d101694986b26927c3d3225c24b7cad1d998c7a/day28.png)
+
