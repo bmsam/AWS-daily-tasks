@@ -119,3 +119,7 @@ Configuring Public VPC with EC2 for Internet Access
 Creating a Private ECR Repository
 ![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/0d101694986b26927c3d3225c24b7cad1d998c7a/day28.png)
 
+# Day 29
+Establishing Secure Communication Between Public and Private VPCs via VPC Peering 
+![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/4acd95cd02b63fa1a7df6af43f4fb1f8716d6f5d/day29.png)
+
