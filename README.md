@@ -123,3 +123,7 @@ Creating a Private ECR Repository
 Establishing Secure Communication Between Public and Private VPCs via VPC Peering 
 ![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/4acd95cd02b63fa1a7df6af43f4fb1f8716d6f5d/day29.png)
 
+# Day 30
+Enable Internet Access for Private EC2 using NAT Instance
+![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/bf079cd44473703e287b365b91e71c402aa80435/day30.png)
+
