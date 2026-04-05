@@ -127,3 +127,7 @@ Establishing Secure Communication Between Public and Private VPCs via VPC Peerin
 Enable Internet Access for Private EC2 using NAT Instance
 ![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/bf079cd44473703e287b365b91e71c402aa80435/day30.png)
 
+# Day 31
+Configuring a Private RDS Instance for Application Development
+![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/554459ce2da69c53e095128b0b6da662aa80380e/day31.png)
+
