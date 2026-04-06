@@ -131,3 +131,7 @@ Enable Internet Access for Private EC2 using NAT Instance
 Configuring a Private RDS Instance for Application Development
 ![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/554459ce2da69c53e095128b0b6da662aa80380e/day31.png)
 
+# Day 32
+Snapshot and Restoration of an RDS Instance
+![img=alt](https://github.com/bmsam/AWS-daily-tasks/blob/761b23fcf818c39f4f2289a6cb5fdcf912cdf199/day32.png)
+
