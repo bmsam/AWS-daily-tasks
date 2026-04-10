@@ -1,4 +1,4 @@
-# AWS-daily-tasks
+# AWS-daily-tasks (Stopped at 32)
 In this repo, i post my daily tasks of " AWS Challenge "
 
 # Day 1 
