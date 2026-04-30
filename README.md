@@ -137,6 +137,6 @@ Snapshot and Restoration of an RDS Instance
 
 **UPDATE : I Realized that devops as fresher to enter in IT in very few in numbers. On top of that in present market no company is shwoing interest in hiring devops eng as fresher/intern. Some companies exist but requires 10 yrs of expereince (Exaggerating -YES)**
 
-**So, decided to focus in this role later after entering IT. As of now planning to enter market as a MERN Stack developer**
+**So, decided to focus in this role later after entering IT. As of now planning to enter market as a Support or any other roles**
 
 **Hope, I can crack it even if things go against or with me**
